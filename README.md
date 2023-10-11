@@ -1,4 +1,1 @@
-"# EMOC_LT" 
-"# EMOC_LT" 
-"# EMOC_LT" 
-"# BAOC" 
+# Batch-mode Active Ordinal Classification Based on Expected Model Output Change and Leadership Tree
