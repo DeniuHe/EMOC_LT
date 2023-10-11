@@ -7,8 +7,9 @@ numpy
 pandas
 sklearn
 ## Conduct Experiments
-### partition
-CreatPartition.py
+### partition the datasets
+dividing a dataset into pool set and testing set. The initial training set is from the pool set.
+run the code CreatPartition.py
 ### run
-EMOC_LT.py
+run the code  EMOC_LT.py
 
