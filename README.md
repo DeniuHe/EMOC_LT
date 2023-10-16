@@ -1,4 +1,4 @@
-# Batch-mode Active Ordinal Classification Based on Expected Model Output Change and Leadership Tree
+# Batch-mode Active Ordinal Classification
 ## Necessary packages
 python 3.6
 xlwt
